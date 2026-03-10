@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Landing Page
 
-## Getting Started
+![Image](public/web-logo.png)
 
-First, run the development server:
+Nontonio adalah platform media entertainment all-in-one yang berisi berbagai akses streaming hiburan. Platform ini di kembangkan oleh PT. Ardean Studio Enterprise (ASE, Inc) dan didirikan pada tahun 2026. Platform ini akan di luncurkan pada awal tahun 2027 oleh ASE, Inc.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Preview Landing
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Image](public/overview.jpeg)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Fitur Platform
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Streaming
 
-## Learn More
+- Anime
+- Movies
+- TV Series
+- Short Drama
+- Manga
+- Novel
+- K-Drama
+- Video
 
-To learn more about Next.js, take a look at the following resources:
+### Kapabilitas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Multi-Bahasa
+- Multi-Source Streaming
+- Enterprise Level Admin Panel
+- Sistem Monetisasi
+- Multiple Business Model `AVOD`, `SVOD`, `TVOD`
+- Video Studio → **Creator Panel**
+- Partnership System → **Vendor Panel**
+- Social System
+    - Review / Comments
+    - Chat System
+- Watchlist & Playlist System
+- Continue Watching & AI Recommendation System
+- Multiple Integration
+    - Google
+    - Anilist
+    - Sentry
+    - AgeVerif
+    - Google Vision
+    - OpenSubtitles
+    - Trakt
+- Full-Whitelable
+- Platform Mode Selection
+- Encoding & Transcoding System
+- DRM System for Media Content
+- Multiple Object Storage
+    - Local
+    - FTP
+    - Cloudflare R2
+    - Amazon S3
+    - Wasabi
+    - BackBlaze
+    - Google Cloud Storage
+    - Digital Ocean Space
+- API System
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Payment Options
 
-## Deploy on Vercel
+- Auto-Detect User Currency
+- Auto-Adjust User Location for preferred Payment Gateway
+- Multiple Payment Gateway
+    - Stripe
+    - PayPal
+    - Xendit
+    - Midtrans
+    - Coinbase
+    - AliPay
+    - Apple Pay
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Media Streaming
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Watch Parties
+- Autoplay & Auto-Next Video Player
+- Premium Content System
+- Renting System
+
+Dan masih banyak lagi fitur-fitur dari Platform Nontonio.
+
+## Visi, Misi, & Value
+
+### Visi
+
+Menjadi sarana hiburan terpadu untuk berbagai jenis layanan.
+
+### Misi
+
+Menghubungkan semua sarana layanan menjadi satu platform untuk semua.
+
+### Value
+
+- Penyedia berbagai sarana hiburan
+- Layanan yang dapat diandalkan untuk semua
+
+## Informasi
+
+### Perusahaan
+
+PT. Ardean Studio Enterprise / ASE, Inc berlokasi di Kota Ternate, Maluku Utara, Indonesia. Telah Berdiri sejak 2020 dan telah beroperasi lebih dari 5+ tahun. ASE, Inc bergerak di bidang Teknologi Informasi, Perangkat Lunak, dan Layanan. Pendiri ASE, Inc ialah Ardean Bima Saputra.
+
+### Kontak
+
+- Email: ardeanstudio@gmail.com
+- Telp: +62-812-3399-3988
+- Web Owner: https://ardean.me
+- Web Perusahaan: https://ardeanstudio.com
